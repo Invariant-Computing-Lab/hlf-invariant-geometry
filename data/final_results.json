@@ -1,0 +1,122 @@
+{
+  "seed": 20260812,
+  "tolerance": 1e-10,
+  "n_mc": 20000,
+  "index": {
+    "preservation_success": 20000,
+    "preservation_n": 20000,
+    "negative_detection_success": 20000,
+    "negative_n": 20000,
+    "bounded_profiles_index3": 1364,
+    "max_collision_multiplicity_index_plus_total": 132,
+    "all_success_cp95_lower": 0.9998155730360381,
+    "P3_rank3_split_bundles_chi3": [
+      [
+        -4,
+        -3,
+        1
+      ],
+      [
+        -4,
+        -2,
+        1
+      ],
+      [
+        -4,
+        -1,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ]
+  },
+  "hilbert": {
+    "bundle_count": 1820,
+    "unique_hilbert_polynomials": 1809,
+    "collision_group_count": 11,
+    "bundles_in_collision_groups": 22,
+    "max_collision_multiplicity": 2,
+    "augmented_hp_plus_p4_collision_groups": 0,
+    "preservation_success": 20000,
+    "mutation_detection_success": 20000,
+    "n": 20000,
+    "example_collision": [
+      [
+        -6,
+        -3,
+        -2,
+        1
+      ],
+      [
+        -5,
+        -5,
+        0,
+        0
+      ]
+    ]
+  },
+  "gauge": {
+    "preservation_median_err": 4.3012794334163104e-16,
+    "preservation_max_err": 3.458884681179832e-15,
+    "reconstruction_median_err_q2q3": 4.632953677520027e-16,
+    "reconstruction_max_err_q2q3": 2.754544038895454e-15,
+    "q2_sensitivity_slope": 2.0000000000052225,
+    "q2_sensitivity_r2": 1.0,
+    "explicit_q2_collision": {
+      "H1_q2q3": [
+        2.0,
+        0.0
+      ],
+      "H2_q2q3": [
+        2.0000000000000004,
+        -1.1547005383792521
+      ]
+    }
+  },
+  "mass": {
+    "preservation_median_err": 9.230571903895081e-16,
+    "preservation_max_err": 4.8598339536342555e-11,
+    "reconstruction_median_err": 3.3306968196428916e-16,
+    "reconstruction_p95_err": 1.2311821408119844e-15,
+    "reconstruction_max_err": 5.708228360254596e-12,
+    "reconstruction_failures_gt_1e-8": 0,
+    "perturbation_slope_small": 0.99579411201531,
+    "perturbation_r2_small": 0.9998822402501977,
+    "discriminant_slope": 1.9934993149640157,
+    "discriminant_r2": 0.9999836701504936
+  },
+  "spectral": {
+    "preservation_median_err": 3.966967403439082e-14,
+    "preservation_max_err": 1.9274945298217413e-12,
+    "finite_operator_reconstruction_median_err": 0.0,
+    "finite_operator_reconstruction_max_err": 0.0,
+    "perturbation_slope_small": 0.9953904281790895,
+    "perturbation_r2_small": 0.9999227611061817,
+    "truncation_collision_example": {
+      "A": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "B": [
+        1,
+        2,
+        3,
+        4,
+        9,
+        12
+      ],
+      "shared_ratios_first3": [
+        2,
+        3,
+        4
+      ]
+    }
+  }
+}

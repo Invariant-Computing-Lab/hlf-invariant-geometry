@@ -1,0 +1,20 @@
+{
+  "academic_publications_excluded_from_corrected_package": true,
+  "excluded_publication_related_paths": [
+    {
+      "path": "docs/main_manuscript.md",
+      "sha256": "8c4d5c8344041f31a17a212396b919b4b11cda116f32380b7809cbedd1e717a5"
+    },
+    {
+      "path": "data/results_macros.tex",
+      "sha256": "53a20cd720c53827d84544cb60068eaa930512c01fb0b6764221b5063c144ed3"
+    }
+  ],
+  "new_zip_copies_software_files_only": true,
+  "original_release_zip_filename": "hlf-invariant-geometry__CP03R1__c424e323667e.zip",
+  "original_release_zip_sha256": "76b7cc82d4d0c9752b9328b312fbb0d4a664aeb5eae89ec46c290e8157a52838",
+  "public_release_approved": false,
+  "repository": "hlf-invariant-geometry",
+  "schema": "invariant.v7.publication_exclusion.v1",
+  "source_archive_unchanged": true
+}

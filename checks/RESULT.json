@@ -1,0 +1,20 @@
+{
+  "repo": "hlf-invariant-geometry",
+  "recovery": "CP03R1",
+  "tests_executed": 1,
+  "passed": true,
+  "scope": "Original mathematical benchmark with archived results. Computational replay is not proof auditing, priority review or physical validation.",
+  "commands": [
+    {
+      "command": [
+        "python",
+        "code/final_experiment.py"
+      ],
+      "exit_code": 0,
+      "seconds": 19.162,
+      "stdout": "{\n  \"seed\": 20260812,\n  \"tolerance\": 1e-10,\n  \"n_mc\": 20000,\n  \"index\": {\n    \"preservation_success\": 20000,\n    \"preservation_n\": 20000,\n    \"negative_detection_success\": 20000,\n    \"negative_n\": 20000,\n    \"bounded_profiles_index3\": 1364,\n    \"max_collision_multiplicity_index_plus_total\": 132,\n    \"all_success_cp95_lower\": 0.9998155730360381,\n    \"P3_rank3_split_bundles_chi3\": [\n      [\n        -4,\n        -3,\n        1\n      ],\n      [\n        -4,\n        -2,\n        1\n      ],\n      [\n        -4,\n        -1,\n        1\n      ],\n      [\n        0,\n        0,\n        0\n      ]\n    ]\n  },\n  \"hilbert\": {\n    \"bundle_count\": 1820,\n    \"unique_hilbert_polynomials\": 1809,\n    \"collision_group_count\": 11,\n    \"bundles_in_collision_groups\": 22,\n    \"max_collision_multiplicity\": 2,\n    \"augmented_hp_plus_p4_collision_groups\": 0,\n    \"preservation_success\": 20000,\n    \"mutation_detection_success\": 20000,\n    \"n\": 20000,\n    \"example_collision\": [\n      [\n        -6,\n        -3,\n        -2,\n        1\n      ],\n      [\n        -5,\n        -5,\n        0,\n        0\n      ]\n    ]\n  },\n  \"gauge\": {\n    \"preservation_median_err\": 4.3012794334163104e-16,\n    \"preservation_max_err\": 3.458884681179832e-15,\n    \"reconstruction_median_err_q2q3\": 4.632953677520027e-16,\n    \"reconstruction_max_err_q2q3\": 2.754544038895454e-15,\n    \"q2_sensitivity_slope\": 2.0000000000052225,\n    \"q2_sensitivity_r2\": 1.0,\n    \"explicit_q2_collision\": {\n      \"H1_q2q3\": [\n        2.0,\n        0.0\n      ],\n      \"H2_q2q3\": [\n        2.0000000000000004,\n        -1.1547005383792521\n      ]\n    }\n  },\n  \"mass\": {\n    \"preservation_median_err\": 9.230571903895081e-16,\n    \"preservation_max_err\": 4.8598339536342555e-11,\n    \"reconstruction_median_err\": 3.3306968196428916e-16,\n    \"reconstruction_p95_err\": 1.2311821408119844e-15,\n    \"reconstruction_max_err\": 5.708228360254596e-12,\n    \"reconstruction_failures_gt_1e-8\": 0,\n    \"perturbation_slope_small\": 0.99579411201531,\n    \"perturbation_r2_small\": 0.9998822402501977,\n    \"discriminant_slope\": 1.9934993149640157,\n    \"discriminant_r2\": 0.9999836701504936\n  },\n  \"spectral\": {\n    \"preservation_median_err\": 3.966967403439082e-14,\n    \"preservation_max_err\": 1.9274945298217413e-12,\n    \"finite_operator_reconstruction_median_err\": 0.0,\n    \"finite_operator_reconstruction_max_err\": 0.0,\n    \"perturbation_slope_small\": 0.9953904281790895,\n    \"perturbation_r2_small\": 0.9999227611061817,\n    \"truncation_collision_example\": {\n      \"A\": [\n        1,\n        2,\n        3,\n        4,\n        5,\n        6\n      ],\n      \"B\": [\n        1,\n        2,\n        3,\n        4,\n        9,\n        12\n      ],\n      \"shared_ratios_first3\": [\n        2,\n        3,\n        4\n      ]\n    }\n  }\n}\n",
+      "stderr": ""
+    }
+  ],
+  "generated_result_hashes": {}
+}

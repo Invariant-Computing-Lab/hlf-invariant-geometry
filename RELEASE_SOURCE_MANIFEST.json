@@ -1,0 +1,212 @@
+{
+  "excluded_counts": {
+    "NONSOFTWARE_DOC_OR_SECRET_FORMAT": 4
+  },
+  "files": [
+    {
+      "bytes": 282,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/.github/workflows/source-check.yml",
+      "path": ".github/workflows/source-check.yml",
+      "sha256": "ee3916cd30ed52bbdf5f183c874e542fb06f07f073c5434ab1a43a991fc760b0"
+    },
+    {
+      "bytes": 321,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/CITATION.cff",
+      "path": "CITATION.cff",
+      "sha256": "8be6cc99e8c2f9fb3c521ab21e8f705ad56e59904f7684143440f60c4e6652ee"
+    },
+    {
+      "bytes": 513,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/DEPENDENCIES_AND_CHECKS.md",
+      "path": "DEPENDENCIES_AND_CHECKS.md",
+      "sha256": "6c9e06c54621e81d04f369ab959c644be5ed1c0323e94477078bc6ee8c81a86c"
+    },
+    {
+      "bytes": 5328,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/FILE_MANIFEST.json",
+      "path": "FILE_MANIFEST.json",
+      "sha256": "2cd29101a46656c06bc97a9bc81cd22ab4e067f272129c5b0bf4b0f9bcc27891"
+    },
+    {
+      "bytes": 663,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/MANIFEST.txt",
+      "path": "MANIFEST.txt",
+      "sha256": "f51987ec6eb79885472123a949d999195302f5453d11fd104b40eff5bc4845c1"
+    },
+    {
+      "bytes": 1840,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/README.md",
+      "path": "README.md",
+      "sha256": "a6d016936aa3bf4b2a0a0d1448f8620c2108006dc0b4b1bc0626646ccd52e68e"
+    },
+    {
+      "bytes": 215,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/RELEASE_NOTES.md",
+      "path": "RELEASE_NOTES.md",
+      "sha256": "ff1d760ca9965999eb8e3b81b9eab0c150f3ef3ff9482fa22ad6de93bc938326"
+    },
+    {
+      "bytes": 1049,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/RELEASE_SPEC.json",
+      "path": "RELEASE_SPEC.json",
+      "sha256": "faf215e186416e33fade4980a522aa3c154cd1fefd559b646f8e5a9806a2f6ed"
+    },
+    {
+      "bytes": 1230,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/RESULTS_SUMMARY.md",
+      "path": "RESULTS_SUMMARY.md",
+      "sha256": "30be3524dc9a708c50e0a6f86be363f3f144a4813c61dcab8a46b2e2eda8d411"
+    },
+    {
+      "bytes": 2379,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/SHA256SUMS.txt",
+      "path": "SHA256SUMS.txt",
+      "sha256": "76d97ca1e194d6b9fc7e062b252fe7a776a0d5ab7950de12e4ff677a548b75a2"
+    },
+    {
+      "bytes": 1976,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/UPSTREAM_README.md",
+      "path": "UPSTREAM_README.md",
+      "sha256": "bd7f4c7f717fab0df674e6b050ae498af2d1a9713d1946a3538830841be39aa4"
+    },
+    {
+      "bytes": 3444,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/checks/RESULT.json",
+      "path": "checks/RESULT.json",
+      "sha256": "a1e57035e0841cfa1d5b45f5ea8283d8bd70c63ca56977ad97e3836c7d84e3b6"
+    },
+    {
+      "bytes": 16995,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/code/final_experiment.py",
+      "path": "code/final_experiment.py",
+      "sha256": "7e1429d040e2f4a8c0cd42a072592651620c2b6342551ca5e9d28baa4447ef6f"
+    },
+    {
+      "bytes": 46,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/code/requirements.txt",
+      "path": "code/requirements.txt",
+      "sha256": "4a3b8f655b2cbaa5e7a06fea1584c7553e94ef3ff58161798cb4c120fd627c3a"
+    },
+    {
+      "bytes": 566,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/data/final_experiment_summary.csv",
+      "path": "data/final_experiment_summary.csv",
+      "sha256": "653735c30d442a2099299c08f0b2b81020f8bfbf38f12ba94e396510e3215de9"
+    },
+    {
+      "bytes": 2722,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/data/final_results.json",
+      "path": "data/final_results.json",
+      "sha256": "63058644eed6ccc1e3bcb4cf6204b5561082de3601f752567fa4405ddebdbda5"
+    },
+    {
+      "bytes": 258,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/data/gauge_sensitivity.csv",
+      "path": "data/gauge_sensitivity.csv",
+      "sha256": "7e717eb753db85e9d189ed4950576fe7fa7a644f295762b58dc3e2c42221957f"
+    },
+    {
+      "bytes": 621,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/data/hilbert_collisions.csv",
+      "path": "data/hilbert_collisions.csv",
+      "sha256": "dba6046b91a4f890380155dcd897dc9353c43c11f4ac75e0e26bcfb3f10dadda"
+    },
+    {
+      "bytes": 277,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/data/mass_discriminant.csv",
+      "path": "data/mass_discriminant.csv",
+      "sha256": "1e48f43a0022a5ced9454a8629c187c422503b5a99f5c4d43fd04d48ae27d316"
+    },
+    {
+      "bytes": 237,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/data/mass_sensitivity.csv",
+      "path": "data/mass_sensitivity.csv",
+      "sha256": "4cd7550ae427d76746924456718ef29147cec361dfa8c9fcabed5d16c9f2e08e"
+    },
+    {
+      "bytes": 283,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/data/results_macros.tex",
+      "path": "data/results_macros.tex",
+      "sha256": "53a20cd720c53827d84544cb60068eaa930512c01fb0b6764221b5063c144ed3"
+    },
+    {
+      "bytes": 2723,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/data/run_stdout.json",
+      "path": "data/run_stdout.json",
+      "sha256": "40eb2e2582479be84190869a06b090fe902998e257e09c458c48e45cbb0ff0bd"
+    },
+    {
+      "bytes": 244,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/data/spectral_sensitivity.csv",
+      "path": "data/spectral_sensitivity.csv",
+      "sha256": "617888107c216076f46164ca4d646f924114c74b6b86ecbfe911e6b4f56a07ca"
+    },
+    {
+      "bytes": 33776,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/docs/main_manuscript.md",
+      "path": "docs/main_manuscript.md",
+      "sha256": "8c4d5c8344041f31a17a212396b919b4b11cda116f32380b7809cbedd1e717a5"
+    },
+    {
+      "bytes": 0,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/docs/main_pandoc.err",
+      "path": "docs/main_pandoc.err",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/docs/supp_pandoc.err",
+      "path": "docs/supp_pandoc.err",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 11949,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/docs/supplementary_appendix.md",
+      "path": "docs/supplementary_appendix.md",
+      "sha256": "d005a3d6ef9a22de99468b1d35295c1e43cd9fd9b3befdc3db181d6ecaa1a5cd"
+    },
+    {
+      "bytes": 61487,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/figures/fig_gauge_sensitivity.png",
+      "path": "figures/fig_gauge_sensitivity.png",
+      "sha256": "0b4652adb1909096927686dbad19ec1ecdb7b8c39be487ff55a95d8f1d2b58dc"
+    },
+    {
+      "bytes": 64041,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/figures/fig_mass_discriminant.png",
+      "path": "figures/fig_mass_discriminant.png",
+      "sha256": "06ca939a6161595a15001e1ef1740d752708b988275b589d0a56670635dc035c"
+    },
+    {
+      "bytes": 71013,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/figures/fig_mass_sensitivity.png",
+      "path": "figures/fig_mass_sensitivity.png",
+      "sha256": "ff96643a8ee3a8f32db5a1e21a4b71ce1f0ad9c61f0c1035252799df1b2ad358"
+    },
+    {
+      "bytes": 73782,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/figures/fig_spectral_sensitivity.png",
+      "path": "figures/fig_spectral_sensitivity.png",
+      "sha256": "578df095db0728dc54230ef41e8ffde6ff9d3c620ef4e10e8ab3da069c6b31c6"
+    },
+    {
+      "bytes": 143,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/run_all.sh",
+      "path": "run_all.sh",
+      "sha256": "669da0d491cbf68fe81db1615afb768dc6cadedcb916de9b5a91093cd2e1ea5c"
+    },
+    {
+      "bytes": 2366,
+      "original_source_member": "Invariant_CP03R1/github/hlf-invariant-geometry/run_checks.py",
+      "path": "run_checks.py",
+      "sha256": "9a59bff276aad8abeba201a01fa2a29525db6af9e71ebb83a58a7cc6cea56990"
+    }
+  ],
+  "published_files": 33,
+  "repository": "github/hlf-invariant-geometry",
+  "schema": "invariant.source_member_manifest.v1",
+  "scope": "source files + minimal repository metadata; no new training or independent experiment",
+  "selected_from_files": 37,
+  "source_archive": "CP03R1",
+  "source_archive_sha256": "9507b5a42e661ae7588ab69cb395597749f043c419ebd981a6c91051516a3209"
+}

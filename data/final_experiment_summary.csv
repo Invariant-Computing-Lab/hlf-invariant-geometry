@@ -1,0 +1,6 @@
+invariant_family,quotient_preservation_rate,reconstructibility_or_detection_rate,collision_count_or_profiles,max_collision_multiplicity,interpretation
+Index,1.0,1.0,1364,132,coarse I2; not reconstructive
+Hilbert polynomial,1.0,1.0,22,2,coarse; HP+p4 complete in enumerated rank-4 domain
+"Gauge (q2,q3)",1.0,1.0,0,1,q2 alone incomplete; q2+q3 reconstructs 3x3 Hermitian orbit spectrum
+"Mass (s2hat,s3hat)",1.0,1.0,0,1,quotient-complete for normalized 3 singular values
+Normalized finite spectrum,1.0,1.0,0,1,complete for finite Hermitian operator orbit; not geometry
